@@ -1,0 +1,4037 @@
+[
+    {
+        "student_id": "ADYH5090",
+        "course_id": "AG106",
+        "grade": "B"
+    },
+    {
+        "student_id": "ADP1M9LD",
+        "course_id": "AG106",
+        "grade": "A"
+    },
+    {
+        "student_id": "ADII2GGA",
+        "course_id": "AG103",
+        "grade": "D"
+    },
+    {
+        "student_id": "ADRI7BIH",
+        "course_id": "AG103",
+        "grade": "C"
+    },
+    {
+        "student_id": "AD8K40N3",
+        "course_id": "AG101",
+        "grade": "B"
+    },
+    {
+        "student_id": "ADOOFMQ0",
+        "course_id": "AG107",
+        "grade": "E"
+    },
+    {
+        "student_id": "AD651DM3",
+        "course_id": "AG107",
+        "grade": "A"
+    },
+    {
+        "student_id": "ADHW48CJ",
+        "course_id": "AG104",
+        "grade": "A"
+    },
+    {
+        "student_id": "ADVXRNNS",
+        "course_id": "AG103",
+        "grade": "E"
+    },
+    {
+        "student_id": "ADPC996F",
+        "course_id": "AG102",
+        "grade": "F"
+    },
+    {
+        "student_id": "ADGYLG45",
+        "course_id": "AG103",
+        "grade": "E"
+    },
+    {
+        "student_id": "ADGT50P4",
+        "course_id": "AG104",
+        "grade": "D"
+    },
+    {
+        "student_id": "ADQWKQ0T",
+        "course_id": "AG106",
+        "grade": "E"
+    },
+    {
+        "student_id": "ADAQ5PSU",
+        "course_id": "AG102",
+        "grade": "D"
+    },
+    {
+        "student_id": "ADAXAGF5",
+        "course_id": "AG105",
+        "grade": "D"
+    },
+    {
+        "student_id": "AD29JBUC",
+        "course_id": "AG101",
+        "grade": "B"
+    },
+    {
+        "student_id": "AD0S4H70",
+        "course_id": "AG105",
+        "grade": "C"
+    },
+    {
+        "student_id": "AD6OOV6C",
+        "course_id": "AG101",
+        "grade": "B"
+    },
+    {
+        "student_id": "ADC045KM",
+        "course_id": "AG102",
+        "grade": "D"
+    },
+    {
+        "student_id": "AD1KLA9Y",
+        "course_id": "AG102",
+        "grade": "E"
+    },
+    {
+        "student_id": "AD5J6F82",
+        "course_id": "AG104",
+        "grade": "F"
+    },
+    {
+        "student_id": "AD5LONAA",
+        "course_id": "AG102",
+        "grade": "C"
+    },
+    {
+        "student_id": "ADT35SOJ",
+        "course_id": "AG103",
+        "grade": "D"
+    },
+    {
+        "student_id": "AD6I1NJQ",
+        "course_id": "AG105",
+        "grade": "C"
+    },
+    {
+        "student_id": "ADMHC78I",
+        "course_id": "AG104",
+        "grade": "B"
+    },
+    {
+        "student_id": "ADA1Q9TG",
+        "course_id": "AG107",
+        "grade": "A"
+    },
+    {
+        "student_id": "AD4U12PF",
+        "course_id": "AG105",
+        "grade": "C"
+    },
+    {
+        "student_id": "AD0W9JDF",
+        "course_id": "AG104",
+        "grade": "C"
+    },
+    {
+        "student_id": "ADOJTDS7",
+        "course_id": "AG103",
+        "grade": "E"
+    },
+    {
+        "student_id": "ADSJ3UZH",
+        "course_id": "AG101",
+        "grade": "F"
+    },
+    {
+        "student_id": "ADRB78QF",
+        "course_id": "AG107",
+        "grade": "D"
+    },
+    {
+        "student_id": "ADYSKAFN",
+        "course_id": "AG104",
+        "grade": "A"
+    },
+    {
+        "student_id": "AD84G7MN",
+        "course_id": "AG105",
+        "grade": "E"
+    },
+    {
+        "student_id": "ADS6TDRV",
+        "course_id": "AG106",
+        "grade": "C"
+    },
+    {
+        "student_id": "ADER6WXJ",
+        "course_id": "AG103",
+        "grade": "C"
+    },
+    {
+        "student_id": "ADN89B8E",
+        "course_id": "AG106",
+        "grade": "F"
+    },
+    {
+        "student_id": "ADFWRQ3X",
+        "course_id": "AG105",
+        "grade": "B"
+    },
+    {
+        "student_id": "AD3K40KB",
+        "course_id": "AG101",
+        "grade": "E"
+    },
+    {
+        "student_id": "ADBUISWU",
+        "course_id": "AG102",
+        "grade": "B"
+    },
+    {
+        "student_id": "AD5L8JMX",
+        "course_id": "AG105",
+        "grade": "B"
+    },
+    {
+        "student_id": "ADW95CJW",
+        "course_id": "AG106",
+        "grade": "C"
+    },
+    {
+        "student_id": "AD9PEZSS",
+        "course_id": "AG107",
+        "grade": "A"
+    },
+    {
+        "student_id": "ADDA394W",
+        "course_id": "AG107",
+        "grade": "D"
+    },
+    {
+        "student_id": "ADLTUZOJ",
+        "course_id": "AG105",
+        "grade": "F"
+    },
+    {
+        "student_id": "ADGQ9U60",
+        "course_id": "AG107",
+        "grade": "D"
+    },
+    {
+        "student_id": "AD0RO018",
+        "course_id": "AG106",
+        "grade": "F"
+    },
+    {
+        "student_id": "AD6XTRG7",
+        "course_id": "AG101",
+        "grade": "C"
+    },
+    {
+        "student_id": "ADGMG90U",
+        "course_id": "AG107",
+        "grade": "B"
+    },
+    {
+        "student_id": "ADI7O0HP",
+        "course_id": "AG102",
+        "grade": "F"
+    },
+    {
+        "student_id": "ADTC782N",
+        "course_id": "AG101",
+        "grade": "B"
+    },
+    {
+        "student_id": "AD5FLUIS",
+        "course_id": "AG101",
+        "grade": "F"
+    },
+    {
+        "student_id": "ADY35WKX",
+        "course_id": "AG101",
+        "grade": "B"
+    },
+    {
+        "student_id": "AD70QHXM",
+        "course_id": "AG106",
+        "grade": "E"
+    },
+    {
+        "student_id": "ADJ73A7E",
+        "course_id": "AG102",
+        "grade": "E"
+    },
+    {
+        "student_id": "ADW46P4I",
+        "course_id": "AG105",
+        "grade": "E"
+    },
+    {
+        "student_id": "AD9G824Q",
+        "course_id": "AG104",
+        "grade": "D"
+    },
+    {
+        "student_id": "AD3JBB7R",
+        "course_id": "AG104",
+        "grade": "A"
+    },
+    {
+        "student_id": "ADRI2DXL",
+        "course_id": "AG103",
+        "grade": "E"
+    },
+    {
+        "student_id": "ADFZ3DNO",
+        "course_id": "AG104",
+        "grade": "E"
+    },
+    {
+        "student_id": "AD6X7H96",
+        "course_id": "AG102",
+        "grade": "E"
+    },
+    {
+        "student_id": "ADW29WSP",
+        "course_id": "AG101",
+        "grade": "B"
+    },
+    {
+        "student_id": "ADQOKD6V",
+        "course_id": "AG104",
+        "grade": "C"
+    },
+    {
+        "student_id": "AD8KUY8D",
+        "course_id": "AG101",
+        "grade": "B"
+    },
+    {
+        "student_id": "ADDPZW6A",
+        "course_id": "AG107",
+        "grade": "A"
+    },
+    {
+        "student_id": "AD0HTENY",
+        "course_id": "AG106",
+        "grade": "E"
+    },
+    {
+        "student_id": "ADPFTZ7T",
+        "course_id": "AG104",
+        "grade": "C"
+    },
+    {
+        "student_id": "ADWZ9393",
+        "course_id": "AG104",
+        "grade": "B"
+    },
+    {
+        "student_id": "ADWQKP56",
+        "course_id": "AG104",
+        "grade": "D"
+    },
+    {
+        "student_id": "ADI4YMDE",
+        "course_id": "AG106",
+        "grade": "A"
+    },
+    {
+        "student_id": "ADDKZAAQ",
+        "course_id": "AG105",
+        "grade": "F"
+    },
+    {
+        "student_id": "ADLO77YD",
+        "course_id": "AG102",
+        "grade": "A"
+    },
+    {
+        "student_id": "ADI2EPIE",
+        "course_id": "AG107",
+        "grade": "C"
+    },
+    {
+        "student_id": "ADDK3TBH",
+        "course_id": "AG106",
+        "grade": "F"
+    },
+    {
+        "student_id": "ADYBAQ72",
+        "course_id": "AG103",
+        "grade": "C"
+    },
+    {
+        "student_id": "ADBYZXKJ",
+        "course_id": "AG104",
+        "grade": "B"
+    },
+    {
+        "student_id": "AD7KFUTH",
+        "course_id": "AG107",
+        "grade": "B"
+    },
+    {
+        "student_id": "AD9Z66AO",
+        "course_id": "AG101",
+        "grade": "A"
+    },
+    {
+        "student_id": "ADQJAI8B",
+        "course_id": "AG103",
+        "grade": "A"
+    },
+    {
+        "student_id": "ADENH0B6",
+        "course_id": "AG107",
+        "grade": "B"
+    },
+    {
+        "student_id": "ADYDHFJ1",
+        "course_id": "AG103",
+        "grade": "A"
+    },
+    {
+        "student_id": "ADA9N5TU",
+        "course_id": "AG104",
+        "grade": "F"
+    },
+    {
+        "student_id": "ADG41BCA",
+        "course_id": "AG106",
+        "grade": "E"
+    },
+    {
+        "student_id": "ADOPRUKU",
+        "course_id": "AG106",
+        "grade": "B"
+    },
+    {
+        "student_id": "AD5CNDWV",
+        "course_id": "AG101",
+        "grade": "A"
+    },
+    {
+        "student_id": "AD92U41V",
+        "course_id": "AG102",
+        "grade": "E"
+    },
+    {
+        "student_id": "AD2VOMIN",
+        "course_id": "AG102",
+        "grade": "E"
+    },
+    {
+        "student_id": "ADM21ZBZ",
+        "course_id": "AG103",
+        "grade": "C"
+    },
+    {
+        "student_id": "AD3ZKCEA",
+        "course_id": "AG106",
+        "grade": "F"
+    },
+    {
+        "student_id": "ADL5WJBL",
+        "course_id": "AG103",
+        "grade": "C"
+    },
+    {
+        "student_id": "ADTIU7PK",
+        "course_id": "AG104",
+        "grade": "A"
+    },
+    {
+        "student_id": "ADJUY0CV",
+        "course_id": "AG106",
+        "grade": "E"
+    },
+    {
+        "student_id": "ADHSW9QD",
+        "course_id": "AG101",
+        "grade": "B"
+    },
+    {
+        "student_id": "ADVU5RTV",
+        "course_id": "AG104",
+        "grade": "A"
+    },
+    {
+        "student_id": "AD00NPLL",
+        "course_id": "AG103",
+        "grade": "B"
+    },
+    {
+        "student_id": "ADS72ZC7",
+        "course_id": "AG103",
+        "grade": "E"
+    },
+    {
+        "student_id": "ADTCG2VX",
+        "course_id": "AG101",
+        "grade": "A"
+    },
+    {
+        "student_id": "ADWHF22F",
+        "course_id": "AG107",
+        "grade": "E"
+    },
+    {
+        "student_id": "AD9LTX1A",
+        "course_id": "AG105",
+        "grade": "A"
+    },
+    {
+        "student_id": "ADJOCWVG",
+        "course_id": "AG104",
+        "grade": "A"
+    },
+    {
+        "student_id": "ADVEM4FX",
+        "course_id": "AG101",
+        "grade": "D"
+    },
+    {
+        "student_id": "ADWK3FQD",
+        "course_id": "AG104",
+        "grade": "F"
+    },
+    {
+        "student_id": "ADWSVRC0",
+        "course_id": "AG107",
+        "grade": "E"
+    },
+    {
+        "student_id": "AD3B3GIR",
+        "course_id": "AG106",
+        "grade": "A"
+    },
+    {
+        "student_id": "ADPHFI40",
+        "course_id": "AG101",
+        "grade": "E"
+    },
+    {
+        "student_id": "ADHKWSHC",
+        "course_id": "AG103",
+        "grade": "B"
+    },
+    {
+        "student_id": "AD5AGT55",
+        "course_id": "AG102",
+        "grade": "F"
+    },
+    {
+        "student_id": "ADKBXYS1",
+        "course_id": "AG102",
+        "grade": "E"
+    },
+    {
+        "student_id": "AD5YJVHI",
+        "course_id": "AG102",
+        "grade": "E"
+    },
+    {
+        "student_id": "ADAJB21C",
+        "course_id": "AG105",
+        "grade": "B"
+    },
+    {
+        "student_id": "AD3IW2T6",
+        "course_id": "AG106",
+        "grade": "D"
+    },
+    {
+        "student_id": "ADW361A3",
+        "course_id": "AG106",
+        "grade": "C"
+    },
+    {
+        "student_id": "ADFFPA69",
+        "course_id": "AG107",
+        "grade": "C"
+    },
+    {
+        "student_id": "ADTWAQ25",
+        "course_id": "AG101",
+        "grade": "A"
+    },
+    {
+        "student_id": "AD73VFK4",
+        "course_id": "AG102",
+        "grade": "D"
+    },
+    {
+        "student_id": "ADTCGHLK",
+        "course_id": "AG106",
+        "grade": "B"
+    },
+    {
+        "student_id": "AD57DQHW",
+        "course_id": "AG102",
+        "grade": "A"
+    },
+    {
+        "student_id": "ADG95G7B",
+        "course_id": "AG103",
+        "grade": "F"
+    },
+    {
+        "student_id": "ADSP39O4",
+        "course_id": "AG104",
+        "grade": "D"
+    },
+    {
+        "student_id": "ADX4PCMT",
+        "course_id": "AG105",
+        "grade": "C"
+    },
+    {
+        "student_id": "AD9XFVHX",
+        "course_id": "AG106",
+        "grade": "A"
+    },
+    {
+        "student_id": "AD4MAF2Y",
+        "course_id": "AG107",
+        "grade": "B"
+    },
+    {
+        "student_id": "ADTC5KZ8",
+        "course_id": "AG106",
+        "grade": "E"
+    },
+    {
+        "student_id": "ADF02WWU",
+        "course_id": "AG102",
+        "grade": "A"
+    },
+    {
+        "student_id": "AD8JER2D",
+        "course_id": "AG106",
+        "grade": "F"
+    },
+    {
+        "student_id": "ADC2NQFL",
+        "course_id": "AG103",
+        "grade": "E"
+    },
+    {
+        "student_id": "AD2UAB4S",
+        "course_id": "AG104",
+        "grade": "D"
+    },
+    {
+        "student_id": "AD2D6PI3",
+        "course_id": "AG107",
+        "grade": "E"
+    },
+    {
+        "student_id": "ADKO05SL",
+        "course_id": "AG104",
+        "grade": "A"
+    },
+    {
+        "student_id": "ADKFKAEN",
+        "course_id": "AG104",
+        "grade": "E"
+    },
+    {
+        "student_id": "AD65UZ4W",
+        "course_id": "AG101",
+        "grade": "D"
+    },
+    {
+        "student_id": "ADVXKH0T",
+        "course_id": "AG106",
+        "grade": "A"
+    },
+    {
+        "student_id": "ADPFRS2M",
+        "course_id": "AG102",
+        "grade": "E"
+    },
+    {
+        "student_id": "ADQEDKFP",
+        "course_id": "AG102",
+        "grade": "F"
+    },
+    {
+        "student_id": "AD68SW2P",
+        "course_id": "AG102",
+        "grade": "C"
+    },
+    {
+        "student_id": "AD65LRRS",
+        "course_id": "AG103",
+        "grade": "A"
+    },
+    {
+        "student_id": "AD6D8TWN",
+        "course_id": "AG103",
+        "grade": "D"
+    },
+    {
+        "student_id": "ADLV8OGF",
+        "course_id": "AG101",
+        "grade": "B"
+    },
+    {
+        "student_id": "ADC0ADEP",
+        "course_id": "AG101",
+        "grade": "A"
+    },
+    {
+        "student_id": "ADME2KDD",
+        "course_id": "AG102",
+        "grade": "A"
+    },
+    {
+        "student_id": "ADVXUQGM",
+        "course_id": "AG106",
+        "grade": "D"
+    },
+    {
+        "student_id": "ADU1LOG5",
+        "course_id": "AG101",
+        "grade": "D"
+    },
+    {
+        "student_id": "AD93D7YG",
+        "course_id": "AG102",
+        "grade": "B"
+    },
+    {
+        "student_id": "ADUJ54ZV",
+        "course_id": "AG102",
+        "grade": "C"
+    },
+    {
+        "student_id": "AD6RIT6J",
+        "course_id": "AG101",
+        "grade": "F"
+    },
+    {
+        "student_id": "ADUCR8AG",
+        "course_id": "AG104",
+        "grade": "D"
+    },
+    {
+        "student_id": "ADU2XAGM",
+        "course_id": "AG105",
+        "grade": "C"
+    },
+    {
+        "student_id": "ADLNYX5V",
+        "course_id": "AG103",
+        "grade": "C"
+    },
+    {
+        "student_id": "ADNBPS98",
+        "course_id": "AG107",
+        "grade": "E"
+    },
+    {
+        "student_id": "AD8G02GN",
+        "course_id": "AG107",
+        "grade": "E"
+    },
+    {
+        "student_id": "ADOO0D4H",
+        "course_id": "AG103",
+        "grade": "F"
+    },
+    {
+        "student_id": "ADE5JMLV",
+        "course_id": "AG106",
+        "grade": "F"
+    },
+    {
+        "student_id": "ADZ61W5A",
+        "course_id": "AG102",
+        "grade": "F"
+    },
+    {
+        "student_id": "ADEN10K5",
+        "course_id": "AG102",
+        "grade": "D"
+    },
+    {
+        "student_id": "AD10OCF2",
+        "course_id": "AG106",
+        "grade": "E"
+    },
+    {
+        "student_id": "ADIB95GG",
+        "course_id": "AG106",
+        "grade": "A"
+    },
+    {
+        "student_id": "ADU7LEMN",
+        "course_id": "AG105",
+        "grade": "D"
+    },
+    {
+        "student_id": "ADWJXK1Z",
+        "course_id": "AG103",
+        "grade": "D"
+    },
+    {
+        "student_id": "ADH6R1ER",
+        "course_id": "AG102",
+        "grade": "A"
+    },
+    {
+        "student_id": "ADBV0EW0",
+        "course_id": "AG104",
+        "grade": "B"
+    },
+    {
+        "student_id": "ADYOZ8AM",
+        "course_id": "AG106",
+        "grade": "F"
+    },
+    {
+        "student_id": "ADJDCTUK",
+        "course_id": "AG101",
+        "grade": "D"
+    },
+    {
+        "student_id": "AD4CYPJV",
+        "course_id": "AG104",
+        "grade": "B"
+    },
+    {
+        "student_id": "AD8EADFS",
+        "course_id": "AG106",
+        "grade": "B"
+    },
+    {
+        "student_id": "ADWKRNLX",
+        "course_id": "AG105",
+        "grade": "D"
+    },
+    {
+        "student_id": "ADMKJKLK",
+        "course_id": "AG104",
+        "grade": "B"
+    },
+    {
+        "student_id": "ADAQLJ0B",
+        "course_id": "AG107",
+        "grade": "C"
+    },
+    {
+        "student_id": "ADE39LSF",
+        "course_id": "AG106",
+        "grade": "B"
+    },
+    {
+        "student_id": "ADTXW5RV",
+        "course_id": "AG104",
+        "grade": "D"
+    },
+    {
+        "student_id": "AD8ZRKNE",
+        "course_id": "AG104",
+        "grade": "A"
+    },
+    {
+        "student_id": "ADT1HIYQ",
+        "course_id": "AG102",
+        "grade": "C"
+    },
+    {
+        "student_id": "ADQ6VGDV",
+        "course_id": "AG103",
+        "grade": "C"
+    },
+    {
+        "student_id": "ADU1818X",
+        "course_id": "AG101",
+        "grade": "E"
+    },
+    {
+        "student_id": "ADQ5ZW9A",
+        "course_id": "AG103",
+        "grade": "F"
+    },
+    {
+        "student_id": "AD8W5DQK",
+        "course_id": "AG106",
+        "grade": "A"
+    },
+    {
+        "student_id": "ADKOAIDS",
+        "course_id": "AG105",
+        "grade": "A"
+    },
+    {
+        "student_id": "AD412IA5",
+        "course_id": "AG105",
+        "grade": "F"
+    },
+    {
+        "student_id": "ADN68L1T",
+        "course_id": "AG106",
+        "grade": "D"
+    },
+    {
+        "student_id": "ADSOUZ4V",
+        "course_id": "AG106",
+        "grade": "A"
+    },
+    {
+        "student_id": "ADRTSFUR",
+        "course_id": "AG103",
+        "grade": "C"
+    },
+    {
+        "student_id": "ADTG0J4I",
+        "course_id": "AG101",
+        "grade": "F"
+    },
+    {
+        "student_id": "ADSJ5SQN",
+        "course_id": "AG102",
+        "grade": "E"
+    },
+    {
+        "student_id": "AD3YJNPB",
+        "course_id": "AG105",
+        "grade": "C"
+    },
+    {
+        "student_id": "AD3D5M5G",
+        "course_id": "AG102",
+        "grade": "F"
+    },
+    {
+        "student_id": "AD0X7QFS",
+        "course_id": "AG105",
+        "grade": "F"
+    },
+    {
+        "student_id": "ADVFMG0Y",
+        "course_id": "AG101",
+        "grade": "A"
+    },
+    {
+        "student_id": "ADP8WBDI",
+        "course_id": "AG103",
+        "grade": "F"
+    },
+    {
+        "student_id": "ADYXAOID",
+        "course_id": "AG105",
+        "grade": "D"
+    },
+    {
+        "student_id": "ADYZA2NH",
+        "course_id": "AG105",
+        "grade": "F"
+    },
+    {
+        "student_id": "ADZF07K9",
+        "course_id": "AG101",
+        "grade": "C"
+    },
+    {
+        "student_id": "AD1BU9DK",
+        "course_id": "AG103",
+        "grade": "F"
+    },
+    {
+        "student_id": "ADTPUFRI",
+        "course_id": "AG101",
+        "grade": "E"
+    },
+    {
+        "student_id": "AD8Y7429",
+        "course_id": "AG101",
+        "grade": "C"
+    },
+    {
+        "student_id": "AD70PVTG",
+        "course_id": "AG105",
+        "grade": "D"
+    },
+    {
+        "student_id": "ADWEQYN8",
+        "course_id": "AG104",
+        "grade": "E"
+    },
+    {
+        "student_id": "ADFV8ZZ6",
+        "course_id": "AG107",
+        "grade": "C"
+    },
+    {
+        "student_id": "AD8VO7U4",
+        "course_id": "AG107",
+        "grade": "E"
+    },
+    {
+        "student_id": "AD4KPMJ7",
+        "course_id": "AG105",
+        "grade": "C"
+    },
+    {
+        "student_id": "ADQXUKXC",
+        "course_id": "AG107",
+        "grade": "D"
+    },
+    {
+        "student_id": "AD6KMBS3",
+        "course_id": "AG103",
+        "grade": "B"
+    },
+    {
+        "student_id": "AD7ZX1K0",
+        "course_id": "AG102",
+        "grade": "F"
+    },
+    {
+        "student_id": "ADJ73192",
+        "course_id": "AG105",
+        "grade": "F"
+    },
+    {
+        "student_id": "AD9S3FUC",
+        "course_id": "AG103",
+        "grade": "A"
+    },
+    {
+        "student_id": "ADXNTOGU",
+        "course_id": "AG105",
+        "grade": "D"
+    },
+    {
+        "student_id": "ADD7I6R9",
+        "course_id": "AG101",
+        "grade": "E"
+    },
+    {
+        "student_id": "ADSTWJFI",
+        "course_id": "AG103",
+        "grade": "C"
+    },
+    {
+        "student_id": "AD1GRV2I",
+        "course_id": "AG104",
+        "grade": "C"
+    },
+    {
+        "student_id": "ADXUTYJQ",
+        "course_id": "AG104",
+        "grade": "C"
+    },
+    {
+        "student_id": "ADSF2FYA",
+        "course_id": "AG105",
+        "grade": "F"
+    },
+    {
+        "student_id": "ADKLFTLW",
+        "course_id": "AG103",
+        "grade": "E"
+    },
+    {
+        "student_id": "ADP0HJXB",
+        "course_id": "AG101",
+        "grade": "C"
+    },
+    {
+        "student_id": "ADJEGLR7",
+        "course_id": "AG105",
+        "grade": "A"
+    },
+    {
+        "student_id": "ADKOC5N5",
+        "course_id": "AG106",
+        "grade": "B"
+    },
+    {
+        "student_id": "ADG7T8NX",
+        "course_id": "AG106",
+        "grade": "B"
+    },
+    {
+        "student_id": "ADL2ZH07",
+        "course_id": "AG105",
+        "grade": "B"
+    },
+    {
+        "student_id": "ADD9NL4L",
+        "course_id": "AG105",
+        "grade": "C"
+    },
+    {
+        "student_id": "ADPRP946",
+        "course_id": "AG104",
+        "grade": "C"
+    },
+    {
+        "student_id": "ADGD1QP6",
+        "course_id": "AG102",
+        "grade": "F"
+    },
+    {
+        "student_id": "AD4CT04H",
+        "course_id": "AG103",
+        "grade": "B"
+    },
+    {
+        "student_id": "ADKLEE7U",
+        "course_id": "AG107",
+        "grade": "D"
+    },
+    {
+        "student_id": "ADJJ90L0",
+        "course_id": "AG103",
+        "grade": "E"
+    },
+    {
+        "student_id": "ADVTD2B7",
+        "course_id": "AG101",
+        "grade": "C"
+    },
+    {
+        "student_id": "ADSKWBND",
+        "course_id": "AG105",
+        "grade": "F"
+    },
+    {
+        "student_id": "ADDXFYNS",
+        "course_id": "AG104",
+        "grade": "D"
+    },
+    {
+        "student_id": "ADF5C6A2",
+        "course_id": "AG102",
+        "grade": "E"
+    },
+    {
+        "student_id": "AD35B2TW",
+        "course_id": "AG107",
+        "grade": "E"
+    },
+    {
+        "student_id": "ADXHWG66",
+        "course_id": "AG107",
+        "grade": "D"
+    },
+    {
+        "student_id": "AD34YOP2",
+        "course_id": "AG106",
+        "grade": "C"
+    },
+    {
+        "student_id": "AD7MJHF2",
+        "course_id": "AG105",
+        "grade": "E"
+    },
+    {
+        "student_id": "AD59LYR2",
+        "course_id": "AG102",
+        "grade": "F"
+    },
+    {
+        "student_id": "ADKNYURX",
+        "course_id": "AG103",
+        "grade": "A"
+    },
+    {
+        "student_id": "AD5X5YLS",
+        "course_id": "AG105",
+        "grade": "C"
+    },
+    {
+        "student_id": "ADCWGR0G",
+        "course_id": "AG104",
+        "grade": "A"
+    },
+    {
+        "student_id": "ADD8LGOG",
+        "course_id": "AG105",
+        "grade": "A"
+    },
+    {
+        "student_id": "ADJZ0SSO",
+        "course_id": "AG107",
+        "grade": "F"
+    },
+    {
+        "student_id": "ADIT0541",
+        "course_id": "AG104",
+        "grade": "F"
+    },
+    {
+        "student_id": "ADYVXVAG",
+        "course_id": "AG102",
+        "grade": "F"
+    },
+    {
+        "student_id": "AD38DDP2",
+        "course_id": "AG104",
+        "grade": "F"
+    },
+    {
+        "student_id": "ADFQ5AB6",
+        "course_id": "AG104",
+        "grade": "F"
+    },
+    {
+        "student_id": "ADB4MI18",
+        "course_id": "AG105",
+        "grade": "D"
+    },
+    {
+        "student_id": "ADBQ6DGF",
+        "course_id": "AG102",
+        "grade": "D"
+    },
+    {
+        "student_id": "ADV4RF7I",
+        "course_id": "AG104",
+        "grade": "F"
+    },
+    {
+        "student_id": "ADS5I5EV",
+        "course_id": "AG103",
+        "grade": "C"
+    },
+    {
+        "student_id": "ADS839VJ",
+        "course_id": "AG101",
+        "grade": "C"
+    },
+    {
+        "student_id": "ADBGJCX0",
+        "course_id": "AG101",
+        "grade": "D"
+    },
+    {
+        "student_id": "ADXAHCHM",
+        "course_id": "AG103",
+        "grade": "B"
+    },
+    {
+        "student_id": "AD3U9ZBL",
+        "course_id": "AG102",
+        "grade": "A"
+    },
+    {
+        "student_id": "ADW8LL5N",
+        "course_id": "AG101",
+        "grade": "D"
+    },
+    {
+        "student_id": "ADM71CPD",
+        "course_id": "AG107",
+        "grade": "C"
+    },
+    {
+        "student_id": "ADIKAC8B",
+        "course_id": "AG104",
+        "grade": "E"
+    },
+    {
+        "student_id": "ADN7YPDI",
+        "course_id": "AG102",
+        "grade": "E"
+    },
+    {
+        "student_id": "ADJLF4LD",
+        "course_id": "AG104",
+        "grade": "F"
+    },
+    {
+        "student_id": "ADHAUECE",
+        "course_id": "AG106",
+        "grade": "B"
+    },
+    {
+        "student_id": "AD7JYL5O",
+        "course_id": "AG103",
+        "grade": "F"
+    },
+    {
+        "student_id": "ADMY3PJI",
+        "course_id": "AG107",
+        "grade": "D"
+    },
+    {
+        "student_id": "AD7H00AH",
+        "course_id": "AG105",
+        "grade": "B"
+    },
+    {
+        "student_id": "AD5S32A1",
+        "course_id": "AG101",
+        "grade": "E"
+    },
+    {
+        "student_id": "ADFG8X1C",
+        "course_id": "AG106",
+        "grade": "D"
+    },
+    {
+        "student_id": "ADBUHF2Z",
+        "course_id": "AG105",
+        "grade": "F"
+    },
+    {
+        "student_id": "ADJOLLWH",
+        "course_id": "AG101",
+        "grade": "F"
+    },
+    {
+        "student_id": "ADHC5DV6",
+        "course_id": "AG105",
+        "grade": "E"
+    },
+    {
+        "student_id": "ADA5GL6S",
+        "course_id": "AG106",
+        "grade": "C"
+    },
+    {
+        "student_id": "AD6FJYAM",
+        "course_id": "AG103",
+        "grade": "D"
+    },
+    {
+        "student_id": "AD8OR7OI",
+        "course_id": "AG104",
+        "grade": "B"
+    },
+    {
+        "student_id": "ADPNCG29",
+        "course_id": "AG105",
+        "grade": "D"
+    },
+    {
+        "student_id": "AD0CYI8Q",
+        "course_id": "AG103",
+        "grade": "B"
+    },
+    {
+        "student_id": "ADXKXYF5",
+        "course_id": "AG105",
+        "grade": "B"
+    },
+    {
+        "student_id": "AD1ZRY1L",
+        "course_id": "AG106",
+        "grade": "B"
+    },
+    {
+        "student_id": "ADL6WF76",
+        "course_id": "AG107",
+        "grade": "D"
+    },
+    {
+        "student_id": "AD992L8I",
+        "course_id": "AG105",
+        "grade": "F"
+    },
+    {
+        "student_id": "ADJR6T1J",
+        "course_id": "AG102",
+        "grade": "B"
+    },
+    {
+        "student_id": "AD2IZFYC",
+        "course_id": "AG105",
+        "grade": "C"
+    },
+    {
+        "student_id": "AD3TRHF9",
+        "course_id": "AG106",
+        "grade": "B"
+    },
+    {
+        "student_id": "AD4U212N",
+        "course_id": "AG106",
+        "grade": "B"
+    },
+    {
+        "student_id": "ADC2A7Y1",
+        "course_id": "AG107",
+        "grade": "C"
+    },
+    {
+        "student_id": "ADBZ0D9M",
+        "course_id": "AG107",
+        "grade": "D"
+    },
+    {
+        "student_id": "AD1WMNNN",
+        "course_id": "AG102",
+        "grade": "D"
+    },
+    {
+        "student_id": "ADUX2RQU",
+        "course_id": "AG104",
+        "grade": "D"
+    },
+    {
+        "student_id": "AD2I1JQS",
+        "course_id": "AG102",
+        "grade": "A"
+    },
+    {
+        "student_id": "ADZG4N0N",
+        "course_id": "AG104",
+        "grade": "C"
+    },
+    {
+        "student_id": "ADK8D1C5",
+        "course_id": "AG106",
+        "grade": "B"
+    },
+    {
+        "student_id": "AD4WI13N",
+        "course_id": "AG106",
+        "grade": "D"
+    },
+    {
+        "student_id": "ADV50V7A",
+        "course_id": "AG103",
+        "grade": "A"
+    },
+    {
+        "student_id": "ADD43LNN",
+        "course_id": "AG103",
+        "grade": "C"
+    },
+    {
+        "student_id": "ADRBWNJW",
+        "course_id": "AG107",
+        "grade": "B"
+    },
+    {
+        "student_id": "AD6OQ3ZT",
+        "course_id": "AG107",
+        "grade": "C"
+    },
+    {
+        "student_id": "ADWBLRHS",
+        "course_id": "AG107",
+        "grade": "D"
+    },
+    {
+        "student_id": "ADFHJ5QH",
+        "course_id": "AG101",
+        "grade": "A"
+    },
+    {
+        "student_id": "ADCL99H1",
+        "course_id": "AG101",
+        "grade": "B"
+    },
+    {
+        "student_id": "ADFANJ93",
+        "course_id": "AG106",
+        "grade": "D"
+    },
+    {
+        "student_id": "ADWRR9Q1",
+        "course_id": "AG103",
+        "grade": "C"
+    },
+    {
+        "student_id": "ADNW9TY8",
+        "course_id": "AG102",
+        "grade": "A"
+    },
+    {
+        "student_id": "ADD55G1G",
+        "course_id": "AG105",
+        "grade": "D"
+    },
+    {
+        "student_id": "AD5OVI3T",
+        "course_id": "AG104",
+        "grade": "D"
+    },
+    {
+        "student_id": "ADW081GW",
+        "course_id": "AG105",
+        "grade": "D"
+    },
+    {
+        "student_id": "AD6T8ITY",
+        "course_id": "AG102",
+        "grade": "B"
+    },
+    {
+        "student_id": "ADFSRXYS",
+        "course_id": "AG102",
+        "grade": "E"
+    },
+    {
+        "student_id": "ADEV0KZD",
+        "course_id": "AG106",
+        "grade": "C"
+    },
+    {
+        "student_id": "ADONXYIK",
+        "course_id": "AG101",
+        "grade": "D"
+    },
+    {
+        "student_id": "ADQWVSGG",
+        "course_id": "AG103",
+        "grade": "E"
+    },
+    {
+        "student_id": "AD6J4JC3",
+        "course_id": "AG106",
+        "grade": "B"
+    },
+    {
+        "student_id": "AD9O7ZA7",
+        "course_id": "AG107",
+        "grade": "B"
+    },
+    {
+        "student_id": "ADKSUQQV",
+        "course_id": "AG102",
+        "grade": "C"
+    },
+    {
+        "student_id": "ADN2O0XB",
+        "course_id": "AG101",
+        "grade": "C"
+    },
+    {
+        "student_id": "ADADY674",
+        "course_id": "AG107",
+        "grade": "F"
+    },
+    {
+        "student_id": "AD4MG9NU",
+        "course_id": "AG103",
+        "grade": "C"
+    },
+    {
+        "student_id": "ADWGNZ42",
+        "course_id": "AG101",
+        "grade": "A"
+    },
+    {
+        "student_id": "ADTM5KW8",
+        "course_id": "AG104",
+        "grade": "F"
+    },
+    {
+        "student_id": "ADVEA4OC",
+        "course_id": "AG106",
+        "grade": "C"
+    },
+    {
+        "student_id": "ADDWIO8A",
+        "course_id": "AG102",
+        "grade": "A"
+    },
+    {
+        "student_id": "ADTAUNUV",
+        "course_id": "AG106",
+        "grade": "F"
+    },
+    {
+        "student_id": "AD8TBUTF",
+        "course_id": "AG107",
+        "grade": "A"
+    },
+    {
+        "student_id": "AD50QSAO",
+        "course_id": "AG105",
+        "grade": "D"
+    },
+    {
+        "student_id": "ADOSYCMN",
+        "course_id": "AG103",
+        "grade": "D"
+    },
+    {
+        "student_id": "ADNM56K5",
+        "course_id": "AG102",
+        "grade": "A"
+    },
+    {
+        "student_id": "AD0G5070",
+        "course_id": "AG107",
+        "grade": "A"
+    },
+    {
+        "student_id": "ADSGLBXR",
+        "course_id": "AG107",
+        "grade": "D"
+    },
+    {
+        "student_id": "AD8FFBN1",
+        "course_id": "AG101",
+        "grade": "F"
+    },
+    {
+        "student_id": "ADK0DYWF",
+        "course_id": "AG102",
+        "grade": "D"
+    },
+    {
+        "student_id": "ADDWBZMN",
+        "course_id": "AG107",
+        "grade": "C"
+    },
+    {
+        "student_id": "ADCD6HJV",
+        "course_id": "AG101",
+        "grade": "C"
+    },
+    {
+        "student_id": "ADVGTZGO",
+        "course_id": "AG104",
+        "grade": "B"
+    },
+    {
+        "student_id": "ADSYRM1Z",
+        "course_id": "AG101",
+        "grade": "B"
+    },
+    {
+        "student_id": "ADYCA4ID",
+        "course_id": "AG102",
+        "grade": "D"
+    },
+    {
+        "student_id": "ADJCYPGR",
+        "course_id": "AG106",
+        "grade": "E"
+    },
+    {
+        "student_id": "AD6G8SAC",
+        "course_id": "AG103",
+        "grade": "A"
+    },
+    {
+        "student_id": "ADWA4YNH",
+        "course_id": "AG104",
+        "grade": "B"
+    },
+    {
+        "student_id": "ADF3BJ3S",
+        "course_id": "AG104",
+        "grade": "D"
+    },
+    {
+        "student_id": "ADCTGJVW",
+        "course_id": "AG101",
+        "grade": "C"
+    },
+    {
+        "student_id": "AD4LBHWO",
+        "course_id": "AG101",
+        "grade": "B"
+    },
+    {
+        "student_id": "ADS19ZLM",
+        "course_id": "AG107",
+        "grade": "D"
+    },
+    {
+        "student_id": "ADETISI6",
+        "course_id": "AG105",
+        "grade": "D"
+    },
+    {
+        "student_id": "ADTL1HQ4",
+        "course_id": "AG105",
+        "grade": "C"
+    },
+    {
+        "student_id": "ADPW7XIU",
+        "course_id": "AG104",
+        "grade": "B"
+    },
+    {
+        "student_id": "ADSK2JW2",
+        "course_id": "AG102",
+        "grade": "E"
+    },
+    {
+        "student_id": "AD78WWQY",
+        "course_id": "AG101",
+        "grade": "D"
+    },
+    {
+        "student_id": "ADA09HWI",
+        "course_id": "AG104",
+        "grade": "A"
+    },
+    {
+        "student_id": "ADNUYI2R",
+        "course_id": "AG102",
+        "grade": "F"
+    },
+    {
+        "student_id": "ADOHMXXW",
+        "course_id": "AG105",
+        "grade": "E"
+    },
+    {
+        "student_id": "AD4SXT87",
+        "course_id": "AG106",
+        "grade": "C"
+    },
+    {
+        "student_id": "ADTL1JIQ",
+        "course_id": "AG101",
+        "grade": "D"
+    },
+    {
+        "student_id": "ADTWRJV5",
+        "course_id": "AG103",
+        "grade": "A"
+    },
+    {
+        "student_id": "ADBL1XYQ",
+        "course_id": "AG101",
+        "grade": "B"
+    },
+    {
+        "student_id": "ADGZ8F9T",
+        "course_id": "AG102",
+        "grade": "D"
+    },
+    {
+        "student_id": "ADP7JMD1",
+        "course_id": "AG106",
+        "grade": "B"
+    },
+    {
+        "student_id": "AD71E4EB",
+        "course_id": "AG105",
+        "grade": "D"
+    },
+    {
+        "student_id": "ADDTIZAJ",
+        "course_id": "AG105",
+        "grade": "A"
+    },
+    {
+        "student_id": "ADK9NW8M",
+        "course_id": "AG103",
+        "grade": "E"
+    },
+    {
+        "student_id": "ADUOBJWV",
+        "course_id": "AG106",
+        "grade": "F"
+    },
+    {
+        "student_id": "ADUCTK0M",
+        "course_id": "AG103",
+        "grade": "C"
+    },
+    {
+        "student_id": "ADEQQ900",
+        "course_id": "AG104",
+        "grade": "F"
+    },
+    {
+        "student_id": "AD5XWSGU",
+        "course_id": "AG104",
+        "grade": "E"
+    },
+    {
+        "student_id": "AD1ONWSM",
+        "course_id": "AG106",
+        "grade": "F"
+    },
+    {
+        "student_id": "AD5ENYKK",
+        "course_id": "AG105",
+        "grade": "E"
+    },
+    {
+        "student_id": "ADN0X08M",
+        "course_id": "AG104",
+        "grade": "B"
+    },
+    {
+        "student_id": "ADZ5KRQB",
+        "course_id": "AG101",
+        "grade": "D"
+    },
+    {
+        "student_id": "ADRQKKQA",
+        "course_id": "AG107",
+        "grade": "D"
+    },
+    {
+        "student_id": "AD4ZS299",
+        "course_id": "AG104",
+        "grade": "F"
+    },
+    {
+        "student_id": "AD6UYD8X",
+        "course_id": "AG103",
+        "grade": "C"
+    },
+    {
+        "student_id": "ADK7Z2NK",
+        "course_id": "AG105",
+        "grade": "A"
+    },
+    {
+        "student_id": "AD13LEI6",
+        "course_id": "AG101",
+        "grade": "B"
+    },
+    {
+        "student_id": "ADFPV5RK",
+        "course_id": "AG103",
+        "grade": "D"
+    },
+    {
+        "student_id": "ADZ7LWPM",
+        "course_id": "AG104",
+        "grade": "F"
+    },
+    {
+        "student_id": "ADQW2ZNG",
+        "course_id": "AG106",
+        "grade": "C"
+    },
+    {
+        "student_id": "ADUA1MMY",
+        "course_id": "AG104",
+        "grade": "B"
+    },
+    {
+        "student_id": "ADYLKAD0",
+        "course_id": "AG107",
+        "grade": "C"
+    },
+    {
+        "student_id": "ADJ9L4NJ",
+        "course_id": "AG101",
+        "grade": "F"
+    },
+    {
+        "student_id": "ADGX3TCB",
+        "course_id": "AG103",
+        "grade": "F"
+    },
+    {
+        "student_id": "ADVETXL6",
+        "course_id": "AG104",
+        "grade": "D"
+    },
+    {
+        "student_id": "ADMIXF0C",
+        "course_id": "AG102",
+        "grade": "B"
+    },
+    {
+        "student_id": "ADZMNCUF",
+        "course_id": "AG106",
+        "grade": "F"
+    },
+    {
+        "student_id": "AD9JIM1Z",
+        "course_id": "AG102",
+        "grade": "A"
+    },
+    {
+        "student_id": "ADOAM0VA",
+        "course_id": "AG103",
+        "grade": "E"
+    },
+    {
+        "student_id": "ADII2SOS",
+        "course_id": "AG107",
+        "grade": "A"
+    },
+    {
+        "student_id": "AD7D0TYY",
+        "course_id": "AG102",
+        "grade": "C"
+    },
+    {
+        "student_id": "ADQHP74L",
+        "course_id": "AG106",
+        "grade": "C"
+    },
+    {
+        "student_id": "ADWGOPBX",
+        "course_id": "AG106",
+        "grade": "B"
+    },
+    {
+        "student_id": "ADE0ZWA8",
+        "course_id": "AG103",
+        "grade": "B"
+    },
+    {
+        "student_id": "ADYYMKKG",
+        "course_id": "AG101",
+        "grade": "D"
+    },
+    {
+        "student_id": "ADW2T8QU",
+        "course_id": "AG104",
+        "grade": "B"
+    },
+    {
+        "student_id": "ADQDGSCG",
+        "course_id": "AG106",
+        "grade": "C"
+    },
+    {
+        "student_id": "ADYZJV61",
+        "course_id": "AG103",
+        "grade": "E"
+    },
+    {
+        "student_id": "ADC98KOQ",
+        "course_id": "AG105",
+        "grade": "B"
+    },
+    {
+        "student_id": "ADK4ALZO",
+        "course_id": "AG104",
+        "grade": "D"
+    },
+    {
+        "student_id": "AD85CRLU",
+        "course_id": "AG103",
+        "grade": "D"
+    },
+    {
+        "student_id": "ADHK7F08",
+        "course_id": "AG103",
+        "grade": "D"
+    },
+    {
+        "student_id": "ADLIZCEX",
+        "course_id": "AG104",
+        "grade": "D"
+    },
+    {
+        "student_id": "ADM5ENLK",
+        "course_id": "AG101",
+        "grade": "A"
+    },
+    {
+        "student_id": "AD59HY8M",
+        "course_id": "AG104",
+        "grade": "A"
+    },
+    {
+        "student_id": "ADANQ20D",
+        "course_id": "AG106",
+        "grade": "F"
+    },
+    {
+        "student_id": "ADOGYSTH",
+        "course_id": "AG101",
+        "grade": "E"
+    },
+    {
+        "student_id": "AD1LG02E",
+        "course_id": "AG107",
+        "grade": "F"
+    },
+    {
+        "student_id": "ADO47HQD",
+        "course_id": "AG104",
+        "grade": "B"
+    },
+    {
+        "student_id": "ADTA47I1",
+        "course_id": "AG101",
+        "grade": "B"
+    },
+    {
+        "student_id": "ADA2J0NA",
+        "course_id": "AG105",
+        "grade": "C"
+    },
+    {
+        "student_id": "ADOU6AGP",
+        "course_id": "AG103",
+        "grade": "A"
+    },
+    {
+        "student_id": "ADQRIKW6",
+        "course_id": "AG105",
+        "grade": "C"
+    },
+    {
+        "student_id": "AD63RZVF",
+        "course_id": "AG107",
+        "grade": "D"
+    },
+    {
+        "student_id": "ADCJ4LS6",
+        "course_id": "AG102",
+        "grade": "C"
+    },
+    {
+        "student_id": "ADD5Y033",
+        "course_id": "AG103",
+        "grade": "F"
+    },
+    {
+        "student_id": "AD4YK47C",
+        "course_id": "AG102",
+        "grade": "F"
+    },
+    {
+        "student_id": "ADJR6YLP",
+        "course_id": "AG107",
+        "grade": "D"
+    },
+    {
+        "student_id": "AD8E0ZYD",
+        "course_id": "AG107",
+        "grade": "E"
+    },
+    {
+        "student_id": "AD7WR0M7",
+        "course_id": "AG107",
+        "grade": "B"
+    },
+    {
+        "student_id": "ADVVVHW5",
+        "course_id": "AG105",
+        "grade": "E"
+    },
+    {
+        "student_id": "ADDE3W38",
+        "course_id": "AG106",
+        "grade": "B"
+    },
+    {
+        "student_id": "ADJWKTKH",
+        "course_id": "AG107",
+        "grade": "D"
+    },
+    {
+        "student_id": "ADHCFZVO",
+        "course_id": "AG107",
+        "grade": "A"
+    },
+    {
+        "student_id": "ADY3BC94",
+        "course_id": "AG106",
+        "grade": "B"
+    },
+    {
+        "student_id": "AD495G6M",
+        "course_id": "AG101",
+        "grade": "D"
+    },
+    {
+        "student_id": "ADRRO98U",
+        "course_id": "AG104",
+        "grade": "F"
+    },
+    {
+        "student_id": "ADPS100G",
+        "course_id": "AG102",
+        "grade": "C"
+    },
+    {
+        "student_id": "ADXB008L",
+        "course_id": "AG101",
+        "grade": "B"
+    },
+    {
+        "student_id": "ADAPZXRQ",
+        "course_id": "AG101",
+        "grade": "A"
+    },
+    {
+        "student_id": "ADACQ4PZ",
+        "course_id": "AG105",
+        "grade": "A"
+    },
+    {
+        "student_id": "AD949251",
+        "course_id": "AG104",
+        "grade": "D"
+    },
+    {
+        "student_id": "AD32EZ66",
+        "course_id": "AG106",
+        "grade": "A"
+    },
+    {
+        "student_id": "ADRK10Z9",
+        "course_id": "AG107",
+        "grade": "C"
+    },
+    {
+        "student_id": "ADUHOXT0",
+        "course_id": "AG106",
+        "grade": "D"
+    },
+    {
+        "student_id": "ADWGRJIP",
+        "course_id": "AG106",
+        "grade": "F"
+    },
+    {
+        "student_id": "ADFPYPYH",
+        "course_id": "AG106",
+        "grade": "C"
+    },
+    {
+        "student_id": "AD07Q4TL",
+        "course_id": "AG107",
+        "grade": "E"
+    },
+    {
+        "student_id": "ADNZSQYL",
+        "course_id": "AG106",
+        "grade": "A"
+    },
+    {
+        "student_id": "ADKC1ORU",
+        "course_id": "AG104",
+        "grade": "A"
+    },
+    {
+        "student_id": "ADHBNLPM",
+        "course_id": "AG104",
+        "grade": "F"
+    },
+    {
+        "student_id": "ADTBFUVP",
+        "course_id": "AG103",
+        "grade": "F"
+    },
+    {
+        "student_id": "ADQB37XF",
+        "course_id": "AG104",
+        "grade": "C"
+    },
+    {
+        "student_id": "ADGF8B9L",
+        "course_id": "AG104",
+        "grade": "E"
+    },
+    {
+        "student_id": "ADGOQDHX",
+        "course_id": "AG105",
+        "grade": "A"
+    },
+    {
+        "student_id": "AD6QDLYL",
+        "course_id": "AG102",
+        "grade": "F"
+    },
+    {
+        "student_id": "ADN5AS7A",
+        "course_id": "AG106",
+        "grade": "F"
+    },
+    {
+        "student_id": "ADWYAEM6",
+        "course_id": "AG105",
+        "grade": "E"
+    },
+    {
+        "student_id": "ADX6ZR2J",
+        "course_id": "AG104",
+        "grade": "A"
+    },
+    {
+        "student_id": "ADHHFNJP",
+        "course_id": "AG102",
+        "grade": "E"
+    },
+    {
+        "student_id": "ADWAP7QD",
+        "course_id": "AG107",
+        "grade": "A"
+    },
+    {
+        "student_id": "ADPW2OD7",
+        "course_id": "AG103",
+        "grade": "F"
+    },
+    {
+        "student_id": "ADYPYQ2A",
+        "course_id": "AG101",
+        "grade": "B"
+    },
+    {
+        "student_id": "ADUSG517",
+        "course_id": "AG101",
+        "grade": "E"
+    },
+    {
+        "student_id": "ADR7HULW",
+        "course_id": "AG101",
+        "grade": "F"
+    },
+    {
+        "student_id": "ADGJCOMH",
+        "course_id": "AG102",
+        "grade": "B"
+    },
+    {
+        "student_id": "ADTYN9Y2",
+        "course_id": "AG103",
+        "grade": "B"
+    },
+    {
+        "student_id": "AD7HTRZ3",
+        "course_id": "AG104",
+        "grade": "C"
+    },
+    {
+        "student_id": "ADHFQ87H",
+        "course_id": "AG106",
+        "grade": "D"
+    },
+    {
+        "student_id": "ADUKUBAH",
+        "course_id": "AG101",
+        "grade": "F"
+    },
+    {
+        "student_id": "AD3HI14D",
+        "course_id": "AG105",
+        "grade": "D"
+    },
+    {
+        "student_id": "AD5ZT9VT",
+        "course_id": "AG104",
+        "grade": "E"
+    },
+    {
+        "student_id": "ADO25KTE",
+        "course_id": "AG107",
+        "grade": "C"
+    },
+    {
+        "student_id": "ADYOQIAJ",
+        "course_id": "AG107",
+        "grade": "B"
+    },
+    {
+        "student_id": "AD0WGQJN",
+        "course_id": "AG101",
+        "grade": "B"
+    },
+    {
+        "student_id": "ADZ8X0UW",
+        "course_id": "AG104",
+        "grade": "D"
+    },
+    {
+        "student_id": "ADXDL7PD",
+        "course_id": "AG106",
+        "grade": "D"
+    },
+    {
+        "student_id": "ADEINLUY",
+        "course_id": "AG102",
+        "grade": "B"
+    },
+    {
+        "student_id": "ADQFLY6D",
+        "course_id": "AG103",
+        "grade": "D"
+    },
+    {
+        "student_id": "AD49EYJI",
+        "course_id": "AG106",
+        "grade": "B"
+    },
+    {
+        "student_id": "AD2KAOIX",
+        "course_id": "AG103",
+        "grade": "B"
+    },
+    {
+        "student_id": "AD454DQF",
+        "course_id": "AG101",
+        "grade": "D"
+    },
+    {
+        "student_id": "ADOWHAWV",
+        "course_id": "AG102",
+        "grade": "E"
+    },
+    {
+        "student_id": "ADKLIBU7",
+        "course_id": "AG106",
+        "grade": "D"
+    },
+    {
+        "student_id": "ADTJN5L8",
+        "course_id": "AG101",
+        "grade": "D"
+    },
+    {
+        "student_id": "ADNKPB1X",
+        "course_id": "AG103",
+        "grade": "B"
+    },
+    {
+        "student_id": "ADADWX6E",
+        "course_id": "AG106",
+        "grade": "C"
+    },
+    {
+        "student_id": "ADWBA2JS",
+        "course_id": "AG101",
+        "grade": "A"
+    },
+    {
+        "student_id": "ADF2XUIE",
+        "course_id": "AG107",
+        "grade": "E"
+    },
+    {
+        "student_id": "ADFDXCUC",
+        "course_id": "AG106",
+        "grade": "B"
+    },
+    {
+        "student_id": "ADDYUR0S",
+        "course_id": "AG105",
+        "grade": "C"
+    },
+    {
+        "student_id": "ADCE2WNG",
+        "course_id": "AG103",
+        "grade": "C"
+    },
+    {
+        "student_id": "ADHKW5LT",
+        "course_id": "AG105",
+        "grade": "F"
+    },
+    {
+        "student_id": "ADMHHSR1",
+        "course_id": "AG106",
+        "grade": "E"
+    },
+    {
+        "student_id": "ADQXAI0D",
+        "course_id": "AG103",
+        "grade": "D"
+    },
+    {
+        "student_id": "ADE1U5VG",
+        "course_id": "AG103",
+        "grade": "B"
+    },
+    {
+        "student_id": "ADZ8SGHW",
+        "course_id": "AG107",
+        "grade": "F"
+    },
+    {
+        "student_id": "ADF0ASLH",
+        "course_id": "AG102",
+        "grade": "A"
+    },
+    {
+        "student_id": "AD9KN7CK",
+        "course_id": "AG102",
+        "grade": "C"
+    },
+    {
+        "student_id": "ADZQCSBA",
+        "course_id": "AG101",
+        "grade": "B"
+    },
+    {
+        "student_id": "AD11H3CD",
+        "course_id": "AG104",
+        "grade": "E"
+    },
+    {
+        "student_id": "AD0QR5PD",
+        "course_id": "AG104",
+        "grade": "D"
+    },
+    {
+        "student_id": "AD88ZI42",
+        "course_id": "AG106",
+        "grade": "E"
+    },
+    {
+        "student_id": "ADF53T0R",
+        "course_id": "AG103",
+        "grade": "C"
+    },
+    {
+        "student_id": "AD06D8R2",
+        "course_id": "AG101",
+        "grade": "F"
+    },
+    {
+        "student_id": "AD8HKJYI",
+        "course_id": "AG107",
+        "grade": "E"
+    },
+    {
+        "student_id": "AD9CCVF6",
+        "course_id": "AG101",
+        "grade": "D"
+    },
+    {
+        "student_id": "AD8G0XRQ",
+        "course_id": "AG106",
+        "grade": "A"
+    },
+    {
+        "student_id": "ADH11NJM",
+        "course_id": "AG102",
+        "grade": "C"
+    },
+    {
+        "student_id": "ADP1KRII",
+        "course_id": "AG102",
+        "grade": "B"
+    },
+    {
+        "student_id": "ADXDVHU7",
+        "course_id": "AG101",
+        "grade": "F"
+    },
+    {
+        "student_id": "ADKF213N",
+        "course_id": "AG101",
+        "grade": "D"
+    },
+    {
+        "student_id": "ADXAV2MC",
+        "course_id": "AG101",
+        "grade": "D"
+    },
+    {
+        "student_id": "ADTV284H",
+        "course_id": "AG103",
+        "grade": "F"
+    },
+    {
+        "student_id": "ADR7DX7F",
+        "course_id": "AG102",
+        "grade": "B"
+    },
+    {
+        "student_id": "ADAGR38A",
+        "course_id": "AG101",
+        "grade": "B"
+    },
+    {
+        "student_id": "ADFSJXS0",
+        "course_id": "AG105",
+        "grade": "F"
+    },
+    {
+        "student_id": "AD03D5OB",
+        "course_id": "AG103",
+        "grade": "A"
+    },
+    {
+        "student_id": "ADR893ZA",
+        "course_id": "AG101",
+        "grade": "B"
+    },
+    {
+        "student_id": "AD70P83I",
+        "course_id": "AG103",
+        "grade": "F"
+    },
+    {
+        "student_id": "ADYDM92Q",
+        "course_id": "AG103",
+        "grade": "D"
+    },
+    {
+        "student_id": "ADB9QLC4",
+        "course_id": "AG102",
+        "grade": "C"
+    },
+    {
+        "student_id": "ADLNIB3R",
+        "course_id": "AG107",
+        "grade": "D"
+    },
+    {
+        "student_id": "ADJZ4ODN",
+        "course_id": "AG105",
+        "grade": "F"
+    },
+    {
+        "student_id": "AD5FDZUQ",
+        "course_id": "AG104",
+        "grade": "D"
+    },
+    {
+        "student_id": "AD943SMO",
+        "course_id": "AG103",
+        "grade": "F"
+    },
+    {
+        "student_id": "ADC0B830",
+        "course_id": "AG104",
+        "grade": "D"
+    },
+    {
+        "student_id": "AD984H60",
+        "course_id": "AG102",
+        "grade": "E"
+    },
+    {
+        "student_id": "AD51T2XV",
+        "course_id": "AG104",
+        "grade": "B"
+    },
+    {
+        "student_id": "ADDC1OLU",
+        "course_id": "AG107",
+        "grade": "D"
+    },
+    {
+        "student_id": "AD0TYV0K",
+        "course_id": "AG103",
+        "grade": "D"
+    },
+    {
+        "student_id": "ADS9UO98",
+        "course_id": "AG102",
+        "grade": "A"
+    },
+    {
+        "student_id": "AD3WAE7H",
+        "course_id": "AG106",
+        "grade": "A"
+    },
+    {
+        "student_id": "ADKGJZE1",
+        "course_id": "AG103",
+        "grade": "D"
+    },
+    {
+        "student_id": "ADMYKP0Z",
+        "course_id": "AG102",
+        "grade": "D"
+    },
+    {
+        "student_id": "ADMEG72E",
+        "course_id": "AG104",
+        "grade": "C"
+    },
+    {
+        "student_id": "ADBOPJOQ",
+        "course_id": "AG102",
+        "grade": "B"
+    },
+    {
+        "student_id": "ADW1UQ54",
+        "course_id": "AG107",
+        "grade": "B"
+    },
+    {
+        "student_id": "AD5Q628T",
+        "course_id": "AG103",
+        "grade": "B"
+    },
+    {
+        "student_id": "ADXURTNU",
+        "course_id": "AG103",
+        "grade": "D"
+    },
+    {
+        "student_id": "ADG6PUKW",
+        "course_id": "AG103",
+        "grade": "F"
+    },
+    {
+        "student_id": "ADS7GZ90",
+        "course_id": "AG106",
+        "grade": "D"
+    },
+    {
+        "student_id": "AD9CQN62",
+        "course_id": "AG107",
+        "grade": "B"
+    },
+    {
+        "student_id": "ADQ0G9M8",
+        "course_id": "AG102",
+        "grade": "B"
+    },
+    {
+        "student_id": "ADMM8WYJ",
+        "course_id": "AG106",
+        "grade": "C"
+    },
+    {
+        "student_id": "ADXWHJKI",
+        "course_id": "AG101",
+        "grade": "E"
+    },
+    {
+        "student_id": "ADCTKL3T",
+        "course_id": "AG103",
+        "grade": "E"
+    },
+    {
+        "student_id": "AD032VMV",
+        "course_id": "AG105",
+        "grade": "F"
+    },
+    {
+        "student_id": "ADLWWVIK",
+        "course_id": "AG102",
+        "grade": "D"
+    },
+    {
+        "student_id": "ADZGXSK6",
+        "course_id": "AG102",
+        "grade": "D"
+    },
+    {
+        "student_id": "ADKB7UJD",
+        "course_id": "AG104",
+        "grade": "E"
+    },
+    {
+        "student_id": "AD56YHEL",
+        "course_id": "AG103",
+        "grade": "A"
+    },
+    {
+        "student_id": "ADUOJ212",
+        "course_id": "AG106",
+        "grade": "E"
+    },
+    {
+        "student_id": "AD25Y0GM",
+        "course_id": "AG107",
+        "grade": "A"
+    },
+    {
+        "student_id": "ADP1GTNF",
+        "course_id": "AG104",
+        "grade": "C"
+    },
+    {
+        "student_id": "AD5U84QM",
+        "course_id": "AG102",
+        "grade": "A"
+    },
+    {
+        "student_id": "ADE5ZKSD",
+        "course_id": "AG107",
+        "grade": "B"
+    },
+    {
+        "student_id": "ADASEU47",
+        "course_id": "AG104",
+        "grade": "C"
+    },
+    {
+        "student_id": "ADSBANPJ",
+        "course_id": "AG101",
+        "grade": "E"
+    },
+    {
+        "student_id": "ADBCS1KE",
+        "course_id": "AG106",
+        "grade": "A"
+    },
+    {
+        "student_id": "AD1222LK",
+        "course_id": "AG105",
+        "grade": "C"
+    },
+    {
+        "student_id": "ADX1UOHB",
+        "course_id": "AG106",
+        "grade": "A"
+    },
+    {
+        "student_id": "ADF25VZ9",
+        "course_id": "AG106",
+        "grade": "F"
+    },
+    {
+        "student_id": "ADHGHH4J",
+        "course_id": "AG101",
+        "grade": "B"
+    },
+    {
+        "student_id": "AD1BBY3N",
+        "course_id": "AG102",
+        "grade": "D"
+    },
+    {
+        "student_id": "AD3XU5U3",
+        "course_id": "AG106",
+        "grade": "F"
+    },
+    {
+        "student_id": "ADUN9Q5H",
+        "course_id": "AG106",
+        "grade": "F"
+    },
+    {
+        "student_id": "AD72UAOF",
+        "course_id": "AG103",
+        "grade": "A"
+    },
+    {
+        "student_id": "AD1I35G5",
+        "course_id": "AG106",
+        "grade": "F"
+    },
+    {
+        "student_id": "ADHT5E1S",
+        "course_id": "AG103",
+        "grade": "B"
+    },
+    {
+        "student_id": "ADQCN7V6",
+        "course_id": "AG106",
+        "grade": "F"
+    },
+    {
+        "student_id": "AD4YQFMH",
+        "course_id": "AG105",
+        "grade": "C"
+    },
+    {
+        "student_id": "ADH3Q1MR",
+        "course_id": "AG106",
+        "grade": "F"
+    },
+    {
+        "student_id": "ADDMCWOL",
+        "course_id": "AG105",
+        "grade": "C"
+    },
+    {
+        "student_id": "AD6GSN2V",
+        "course_id": "AG102",
+        "grade": "F"
+    },
+    {
+        "student_id": "ADWZDZP9",
+        "course_id": "AG106",
+        "grade": "B"
+    },
+    {
+        "student_id": "ADD41BGM",
+        "course_id": "AG105",
+        "grade": "F"
+    },
+    {
+        "student_id": "ADQRNEVR",
+        "course_id": "AG105",
+        "grade": "C"
+    },
+    {
+        "student_id": "ADKWRMKP",
+        "course_id": "AG105",
+        "grade": "E"
+    },
+    {
+        "student_id": "ADP5N6AR",
+        "course_id": "AG107",
+        "grade": "E"
+    },
+    {
+        "student_id": "ADEBVW69",
+        "course_id": "AG103",
+        "grade": "E"
+    },
+    {
+        "student_id": "ADTDWZI2",
+        "course_id": "AG102",
+        "grade": "F"
+    },
+    {
+        "student_id": "ADZA5UW1",
+        "course_id": "AG106",
+        "grade": "E"
+    },
+    {
+        "student_id": "AD2ICXWM",
+        "course_id": "AG102",
+        "grade": "C"
+    },
+    {
+        "student_id": "ADZTY2FC",
+        "course_id": "AG105",
+        "grade": "E"
+    },
+    {
+        "student_id": "AD99YY0J",
+        "course_id": "AG102",
+        "grade": "B"
+    },
+    {
+        "student_id": "ADXCUHOO",
+        "course_id": "AG107",
+        "grade": "D"
+    },
+    {
+        "student_id": "AD4J1OG9",
+        "course_id": "AG107",
+        "grade": "C"
+    },
+    {
+        "student_id": "ADE7JG1R",
+        "course_id": "AG101",
+        "grade": "F"
+    },
+    {
+        "student_id": "ADHSV0R1",
+        "course_id": "AG101",
+        "grade": "B"
+    },
+    {
+        "student_id": "ADTBNH7G",
+        "course_id": "AG103",
+        "grade": "C"
+    },
+    {
+        "student_id": "AD9CEUJJ",
+        "course_id": "AG102",
+        "grade": "A"
+    },
+    {
+        "student_id": "AD2JOPPX",
+        "course_id": "AG104",
+        "grade": "F"
+    },
+    {
+        "student_id": "ADORUS3O",
+        "course_id": "AG106",
+        "grade": "A"
+    },
+    {
+        "student_id": "ADUDY8W4",
+        "course_id": "AG105",
+        "grade": "F"
+    },
+    {
+        "student_id": "AD3COR69",
+        "course_id": "AG105",
+        "grade": "C"
+    },
+    {
+        "student_id": "ADTMZEMG",
+        "course_id": "AG104",
+        "grade": "C"
+    },
+    {
+        "student_id": "ADTGR2JJ",
+        "course_id": "AG104",
+        "grade": "E"
+    },
+    {
+        "student_id": "ADEQAX5L",
+        "course_id": "AG106",
+        "grade": "E"
+    },
+    {
+        "student_id": "ADBWSN57",
+        "course_id": "AG104",
+        "grade": "A"
+    },
+    {
+        "student_id": "AD0X1KFO",
+        "course_id": "AG105",
+        "grade": "B"
+    },
+    {
+        "student_id": "ADA8SF7L",
+        "course_id": "AG106",
+        "grade": "D"
+    },
+    {
+        "student_id": "ADVIIZ43",
+        "course_id": "AG105",
+        "grade": "E"
+    },
+    {
+        "student_id": "ADDEB5IL",
+        "course_id": "AG105",
+        "grade": "B"
+    },
+    {
+        "student_id": "AD9CI5NX",
+        "course_id": "AG102",
+        "grade": "C"
+    },
+    {
+        "student_id": "ADJ715JN",
+        "course_id": "AG105",
+        "grade": "D"
+    },
+    {
+        "student_id": "AD68PRLN",
+        "course_id": "AG104",
+        "grade": "D"
+    },
+    {
+        "student_id": "AD81MIVC",
+        "course_id": "AG105",
+        "grade": "E"
+    },
+    {
+        "student_id": "AD4MV22I",
+        "course_id": "AG105",
+        "grade": "F"
+    },
+    {
+        "student_id": "ADLYUHLS",
+        "course_id": "AG107",
+        "grade": "C"
+    },
+    {
+        "student_id": "AD9G303J",
+        "course_id": "AG101",
+        "grade": "C"
+    },
+    {
+        "student_id": "ADHOIUCH",
+        "course_id": "AG107",
+        "grade": "E"
+    },
+    {
+        "student_id": "ADMVTJJQ",
+        "course_id": "AG105",
+        "grade": "E"
+    },
+    {
+        "student_id": "AD5XOA1P",
+        "course_id": "AG106",
+        "grade": "C"
+    },
+    {
+        "student_id": "ADM77YWE",
+        "course_id": "AG101",
+        "grade": "F"
+    },
+    {
+        "student_id": "ADRELNJY",
+        "course_id": "AG106",
+        "grade": "E"
+    },
+    {
+        "student_id": "ADWQL9JP",
+        "course_id": "AG105",
+        "grade": "C"
+    },
+    {
+        "student_id": "AD04QJ6K",
+        "course_id": "AG105",
+        "grade": "F"
+    },
+    {
+        "student_id": "ADJ148YJ",
+        "course_id": "AG105",
+        "grade": "C"
+    },
+    {
+        "student_id": "ADTFD7EC",
+        "course_id": "AG102",
+        "grade": "A"
+    },
+    {
+        "student_id": "AD9SSN7J",
+        "course_id": "AG102",
+        "grade": "E"
+    },
+    {
+        "student_id": "ADPIGSZY",
+        "course_id": "AG105",
+        "grade": "B"
+    },
+    {
+        "student_id": "ADFEV0O2",
+        "course_id": "AG104",
+        "grade": "A"
+    },
+    {
+        "student_id": "ADIPM9QX",
+        "course_id": "AG104",
+        "grade": "F"
+    },
+    {
+        "student_id": "ADLZ4ET3",
+        "course_id": "AG102",
+        "grade": "A"
+    },
+    {
+        "student_id": "ADZFEDB2",
+        "course_id": "AG106",
+        "grade": "B"
+    },
+    {
+        "student_id": "AD34KPEO",
+        "course_id": "AG102",
+        "grade": "E"
+    },
+    {
+        "student_id": "ADMXRMU9",
+        "course_id": "AG101",
+        "grade": "C"
+    },
+    {
+        "student_id": "ADBA5QOV",
+        "course_id": "AG106",
+        "grade": "A"
+    },
+    {
+        "student_id": "ADPGOW13",
+        "course_id": "AG102",
+        "grade": "E"
+    },
+    {
+        "student_id": "ADXG22SV",
+        "course_id": "AG102",
+        "grade": "C"
+    },
+    {
+        "student_id": "ADPT9G8N",
+        "course_id": "AG102",
+        "grade": "D"
+    },
+    {
+        "student_id": "ADPBDESV",
+        "course_id": "AG101",
+        "grade": "A"
+    },
+    {
+        "student_id": "ADY6V08Z",
+        "course_id": "AG107",
+        "grade": "F"
+    },
+    {
+        "student_id": "ADGZG5H9",
+        "course_id": "AG106",
+        "grade": "B"
+    },
+    {
+        "student_id": "AD35U6A3",
+        "course_id": "AG105",
+        "grade": "A"
+    },
+    {
+        "student_id": "ADSCU8O6",
+        "course_id": "AG106",
+        "grade": "F"
+    },
+    {
+        "student_id": "ADNSS5KV",
+        "course_id": "AG104",
+        "grade": "F"
+    },
+    {
+        "student_id": "ADVLG8S2",
+        "course_id": "AG105",
+        "grade": "F"
+    },
+    {
+        "student_id": "ADJXMPC8",
+        "course_id": "AG106",
+        "grade": "D"
+    },
+    {
+        "student_id": "ADDWLHO6",
+        "course_id": "AG105",
+        "grade": "E"
+    },
+    {
+        "student_id": "AD8THW5E",
+        "course_id": "AG106",
+        "grade": "F"
+    },
+    {
+        "student_id": "ADWG4U5D",
+        "course_id": "AG107",
+        "grade": "D"
+    },
+    {
+        "student_id": "ADRV48EH",
+        "course_id": "AG102",
+        "grade": "A"
+    },
+    {
+        "student_id": "AD8YD1QA",
+        "course_id": "AG105",
+        "grade": "C"
+    },
+    {
+        "student_id": "ADEKJ05H",
+        "course_id": "AG103",
+        "grade": "C"
+    },
+    {
+        "student_id": "ADLCG3SK",
+        "course_id": "AG106",
+        "grade": "E"
+    },
+    {
+        "student_id": "AD7H2UO6",
+        "course_id": "AG101",
+        "grade": "C"
+    },
+    {
+        "student_id": "ADENGXV8",
+        "course_id": "AG107",
+        "grade": "C"
+    },
+    {
+        "student_id": "ADGIX4Y1",
+        "course_id": "AG102",
+        "grade": "B"
+    },
+    {
+        "student_id": "ADBZ1QU9",
+        "course_id": "AG105",
+        "grade": "C"
+    },
+    {
+        "student_id": "ADATZXBG",
+        "course_id": "AG106",
+        "grade": "B"
+    },
+    {
+        "student_id": "ADF9JD0Y",
+        "course_id": "AG104",
+        "grade": "C"
+    },
+    {
+        "student_id": "ADIAUL9Z",
+        "course_id": "AG107",
+        "grade": "D"
+    },
+    {
+        "student_id": "ADAGC5GR",
+        "course_id": "AG105",
+        "grade": "F"
+    },
+    {
+        "student_id": "ADH63ARS",
+        "course_id": "AG105",
+        "grade": "A"
+    },
+    {
+        "student_id": "ADGEFIFR",
+        "course_id": "AG107",
+        "grade": "D"
+    },
+    {
+        "student_id": "ADUS5OBP",
+        "course_id": "AG103",
+        "grade": "F"
+    },
+    {
+        "student_id": "ADJ4TP59",
+        "course_id": "AG107",
+        "grade": "A"
+    },
+    {
+        "student_id": "AD1TKRZC",
+        "course_id": "AG105",
+        "grade": "D"
+    },
+    {
+        "student_id": "ADVUPRDI",
+        "course_id": "AG107",
+        "grade": "C"
+    },
+    {
+        "student_id": "AD440Q7E",
+        "course_id": "AG102",
+        "grade": "D"
+    },
+    {
+        "student_id": "AD2L97LA",
+        "course_id": "AG106",
+        "grade": "B"
+    },
+    {
+        "student_id": "AD6UO4ST",
+        "course_id": "AG105",
+        "grade": "B"
+    },
+    {
+        "student_id": "ADPILXHR",
+        "course_id": "AG103",
+        "grade": "F"
+    },
+    {
+        "student_id": "ADOLNXR4",
+        "course_id": "AG106",
+        "grade": "F"
+    },
+    {
+        "student_id": "AD5CLY49",
+        "course_id": "AG104",
+        "grade": "F"
+    },
+    {
+        "student_id": "ADUOK6KM",
+        "course_id": "AG106",
+        "grade": "A"
+    },
+    {
+        "student_id": "AD92N4DE",
+        "course_id": "AG104",
+        "grade": "A"
+    },
+    {
+        "student_id": "ADQGDN6X",
+        "course_id": "AG104",
+        "grade": "D"
+    },
+    {
+        "student_id": "ADDYEC8O",
+        "course_id": "AG106",
+        "grade": "B"
+    },
+    {
+        "student_id": "ADG8J7FG",
+        "course_id": "AG107",
+        "grade": "C"
+    },
+    {
+        "student_id": "ADAZE6CB",
+        "course_id": "AG105",
+        "grade": "F"
+    },
+    {
+        "student_id": "ADDOEUH8",
+        "course_id": "AG106",
+        "grade": "E"
+    },
+    {
+        "student_id": "AD0SJOV0",
+        "course_id": "AG104",
+        "grade": "F"
+    },
+    {
+        "student_id": "ADC98SXU",
+        "course_id": "AG106",
+        "grade": "E"
+    },
+    {
+        "student_id": "ADYRDS8F",
+        "course_id": "AG103",
+        "grade": "B"
+    },
+    {
+        "student_id": "ADM5PON7",
+        "course_id": "AG106",
+        "grade": "C"
+    },
+    {
+        "student_id": "ADM43NF1",
+        "course_id": "AG101",
+        "grade": "C"
+    },
+    {
+        "student_id": "ADCOKFVU",
+        "course_id": "AG104",
+        "grade": "A"
+    },
+    {
+        "student_id": "ADQZ16EL",
+        "course_id": "AG105",
+        "grade": "D"
+    },
+    {
+        "student_id": "ADKMI1PW",
+        "course_id": "AG107",
+        "grade": "F"
+    },
+    {
+        "student_id": "ADM4FTLV",
+        "course_id": "AG106",
+        "grade": "E"
+    },
+    {
+        "student_id": "ADTN6UBM",
+        "course_id": "AG102",
+        "grade": "D"
+    },
+    {
+        "student_id": "ADHYKKTU",
+        "course_id": "AG107",
+        "grade": "E"
+    },
+    {
+        "student_id": "ADYC72J1",
+        "course_id": "AG102",
+        "grade": "F"
+    },
+    {
+        "student_id": "AD1VL3JG",
+        "course_id": "AG107",
+        "grade": "D"
+    },
+    {
+        "student_id": "ADBLLU5H",
+        "course_id": "AG105",
+        "grade": "D"
+    },
+    {
+        "student_id": "ADYIAI1K",
+        "course_id": "AG107",
+        "grade": "E"
+    },
+    {
+        "student_id": "AD3DF0RN",
+        "course_id": "AG103",
+        "grade": "E"
+    },
+    {
+        "student_id": "ADGZ0DF8",
+        "course_id": "AG105",
+        "grade": "A"
+    },
+    {
+        "student_id": "ADRB4T36",
+        "course_id": "AG104",
+        "grade": "A"
+    },
+    {
+        "student_id": "ADICO4F3",
+        "course_id": "AG106",
+        "grade": "F"
+    },
+    {
+        "student_id": "AD1Q538U",
+        "course_id": "AG106",
+        "grade": "C"
+    },
+    {
+        "student_id": "ADFIZUCC",
+        "course_id": "AG102",
+        "grade": "E"
+    },
+    {
+        "student_id": "ADIEM32D",
+        "course_id": "AG102",
+        "grade": "F"
+    },
+    {
+        "student_id": "ADSPPO2L",
+        "course_id": "AG102",
+        "grade": "A"
+    },
+    {
+        "student_id": "ADMOELNP",
+        "course_id": "AG101",
+        "grade": "D"
+    },
+    {
+        "student_id": "ADJNDWN1",
+        "course_id": "AG104",
+        "grade": "C"
+    },
+    {
+        "student_id": "AD9WLUDR",
+        "course_id": "AG103",
+        "grade": "A"
+    },
+    {
+        "student_id": "ADM6H9QC",
+        "course_id": "AG101",
+        "grade": "E"
+    },
+    {
+        "student_id": "ADJOJTS2",
+        "course_id": "AG104",
+        "grade": "D"
+    },
+    {
+        "student_id": "AD1YU7GH",
+        "course_id": "AG103",
+        "grade": "D"
+    },
+    {
+        "student_id": "ADT6D1P9",
+        "course_id": "AG104",
+        "grade": "A"
+    },
+    {
+        "student_id": "AD6E8AAP",
+        "course_id": "AG106",
+        "grade": "E"
+    },
+    {
+        "student_id": "ADYRV627",
+        "course_id": "AG101",
+        "grade": "E"
+    },
+    {
+        "student_id": "AD3BWECR",
+        "course_id": "AG105",
+        "grade": "F"
+    },
+    {
+        "student_id": "AD34HQ5W",
+        "course_id": "AG107",
+        "grade": "A"
+    },
+    {
+        "student_id": "ADXBPJZW",
+        "course_id": "AG102",
+        "grade": "C"
+    },
+    {
+        "student_id": "ADIAIZ1S",
+        "course_id": "AG104",
+        "grade": "F"
+    },
+    {
+        "student_id": "ADG5BCO7",
+        "course_id": "AG105",
+        "grade": "F"
+    },
+    {
+        "student_id": "ADFVN0DH",
+        "course_id": "AG103",
+        "grade": "A"
+    },
+    {
+        "student_id": "ADC9CDJZ",
+        "course_id": "AG104",
+        "grade": "A"
+    },
+    {
+        "student_id": "AD36STIU",
+        "course_id": "AG102",
+        "grade": "E"
+    },
+    {
+        "student_id": "ADMCP3SL",
+        "course_id": "AG101",
+        "grade": "B"
+    },
+    {
+        "student_id": "AD4PND3J",
+        "course_id": "AG101",
+        "grade": "B"
+    },
+    {
+        "student_id": "ADVKUXG8",
+        "course_id": "AG102",
+        "grade": "B"
+    },
+    {
+        "student_id": "AD796OJ7",
+        "course_id": "AG101",
+        "grade": "B"
+    },
+    {
+        "student_id": "ADBE36PH",
+        "course_id": "AG104",
+        "grade": "E"
+    },
+    {
+        "student_id": "ADKQ2CBE",
+        "course_id": "AG104",
+        "grade": "B"
+    },
+    {
+        "student_id": "ADAXNCWW",
+        "course_id": "AG101",
+        "grade": "C"
+    },
+    {
+        "student_id": "ADJYCMWI",
+        "course_id": "AG107",
+        "grade": "C"
+    },
+    {
+        "student_id": "ADYH71N3",
+        "course_id": "AG102",
+        "grade": "D"
+    },
+    {
+        "student_id": "AD12VS9L",
+        "course_id": "AG106",
+        "grade": "F"
+    },
+    {
+        "student_id": "ADD0I8LG",
+        "course_id": "AG104",
+        "grade": "E"
+    },
+    {
+        "student_id": "AD64X84Z",
+        "course_id": "AG106",
+        "grade": "E"
+    },
+    {
+        "student_id": "AD7E8E3K",
+        "course_id": "AG104",
+        "grade": "F"
+    },
+    {
+        "student_id": "ADUI14MJ",
+        "course_id": "AG104",
+        "grade": "A"
+    },
+    {
+        "student_id": "ADL7CZXL",
+        "course_id": "AG101",
+        "grade": "A"
+    },
+    {
+        "student_id": "AD78GDPC",
+        "course_id": "AG104",
+        "grade": "A"
+    },
+    {
+        "student_id": "ADLAFDSC",
+        "course_id": "AG102",
+        "grade": "C"
+    },
+    {
+        "student_id": "ADYM13LI",
+        "course_id": "AG102",
+        "grade": "C"
+    },
+    {
+        "student_id": "ADM46II2",
+        "course_id": "AG104",
+        "grade": "B"
+    },
+    {
+        "student_id": "ADUCOBWL",
+        "course_id": "AG103",
+        "grade": "E"
+    },
+    {
+        "student_id": "ADZ2P211",
+        "course_id": "AG101",
+        "grade": "B"
+    },
+    {
+        "student_id": "AD0SLSMS",
+        "course_id": "AG107",
+        "grade": "F"
+    },
+    {
+        "student_id": "ADAVPPD3",
+        "course_id": "AG103",
+        "grade": "A"
+    },
+    {
+        "student_id": "ADVF8WES",
+        "course_id": "AG107",
+        "grade": "F"
+    },
+    {
+        "student_id": "ADJB5EDG",
+        "course_id": "AG101",
+        "grade": "D"
+    },
+    {
+        "student_id": "ADIXLN7A",
+        "course_id": "AG106",
+        "grade": "F"
+    },
+    {
+        "student_id": "ADMNCK84",
+        "course_id": "AG104",
+        "grade": "D"
+    },
+    {
+        "student_id": "ADBIXKU1",
+        "course_id": "AG105",
+        "grade": "D"
+    },
+    {
+        "student_id": "ADXL751V",
+        "course_id": "AG102",
+        "grade": "A"
+    },
+    {
+        "student_id": "AD36J0UA",
+        "course_id": "AG104",
+        "grade": "D"
+    },
+    {
+        "student_id": "ADKDAQ7U",
+        "course_id": "AG103",
+        "grade": "A"
+    },
+    {
+        "student_id": "ADKG134J",
+        "course_id": "AG101",
+        "grade": "A"
+    },
+    {
+        "student_id": "ADVRAAGI",
+        "course_id": "AG105",
+        "grade": "C"
+    },
+    {
+        "student_id": "AD96RNTA",
+        "course_id": "AG107",
+        "grade": "B"
+    },
+    {
+        "student_id": "AD78CA3E",
+        "course_id": "AG106",
+        "grade": "B"
+    },
+    {
+        "student_id": "AD81PTZ8",
+        "course_id": "AG102",
+        "grade": "A"
+    },
+    {
+        "student_id": "AD5XUUV6",
+        "course_id": "AG101",
+        "grade": "F"
+    },
+    {
+        "student_id": "ADICNQV4",
+        "course_id": "AG105",
+        "grade": "B"
+    },
+    {
+        "student_id": "ADIKANKE",
+        "course_id": "AG107",
+        "grade": "E"
+    },
+    {
+        "student_id": "AD9JLUBC",
+        "course_id": "AG105",
+        "grade": "E"
+    },
+    {
+        "student_id": "AD5D3QAY",
+        "course_id": "AG101",
+        "grade": "F"
+    },
+    {
+        "student_id": "ADCXT7R4",
+        "course_id": "AG101",
+        "grade": "B"
+    },
+    {
+        "student_id": "ADXJBRAN",
+        "course_id": "AG105",
+        "grade": "D"
+    },
+    {
+        "student_id": "ADVV8CCV",
+        "course_id": "AG101",
+        "grade": "A"
+    },
+    {
+        "student_id": "AD2KOV0V",
+        "course_id": "AG106",
+        "grade": "A"
+    },
+    {
+        "student_id": "ADPK3FXY",
+        "course_id": "AG105",
+        "grade": "D"
+    },
+    {
+        "student_id": "ADF0ZO0U",
+        "course_id": "AG106",
+        "grade": "C"
+    },
+    {
+        "student_id": "AD3BZ2RQ",
+        "course_id": "AG104",
+        "grade": "D"
+    },
+    {
+        "student_id": "ADEH45SW",
+        "course_id": "AG102",
+        "grade": "D"
+    },
+    {
+        "student_id": "ADK2GW1R",
+        "course_id": "AG103",
+        "grade": "D"
+    },
+    {
+        "student_id": "AD2J3RLP",
+        "course_id": "AG106",
+        "grade": "D"
+    },
+    {
+        "student_id": "AD3CRCLI",
+        "course_id": "AG103",
+        "grade": "F"
+    },
+    {
+        "student_id": "AD24XOKZ",
+        "course_id": "AG107",
+        "grade": "C"
+    },
+    {
+        "student_id": "ADYJZHH9",
+        "course_id": "AG107",
+        "grade": "C"
+    },
+    {
+        "student_id": "ADDJT8Z9",
+        "course_id": "AG107",
+        "grade": "A"
+    },
+    {
+        "student_id": "AD46E5LL",
+        "course_id": "AG104",
+        "grade": "A"
+    },
+    {
+        "student_id": "ADBPSX3M",
+        "course_id": "AG104",
+        "grade": "B"
+    },
+    {
+        "student_id": "AD80XEBB",
+        "course_id": "AG103",
+        "grade": "D"
+    },
+    {
+        "student_id": "ADQK36Q2",
+        "course_id": "AG106",
+        "grade": "F"
+    },
+    {
+        "student_id": "ADYECHR3",
+        "course_id": "AG105",
+        "grade": "D"
+    },
+    {
+        "student_id": "ADXM0UF4",
+        "course_id": "AG107",
+        "grade": "E"
+    },
+    {
+        "student_id": "ADD7LA99",
+        "course_id": "AG106",
+        "grade": "C"
+    },
+    {
+        "student_id": "ADRPFQ4O",
+        "course_id": "AG101",
+        "grade": "F"
+    },
+    {
+        "student_id": "AD180MDR",
+        "course_id": "AG104",
+        "grade": "A"
+    },
+    {
+        "student_id": "ADI4UXLY",
+        "course_id": "AG107",
+        "grade": "E"
+    },
+    {
+        "student_id": "ADOP41FY",
+        "course_id": "AG101",
+        "grade": "B"
+    },
+    {
+        "student_id": "ADTQW0YW",
+        "course_id": "AG104",
+        "grade": "A"
+    },
+    {
+        "student_id": "AD41THZ0",
+        "course_id": "AG103",
+        "grade": "B"
+    },
+    {
+        "student_id": "ADENCFVS",
+        "course_id": "AG103",
+        "grade": "F"
+    },
+    {
+        "student_id": "ADD23Y59",
+        "course_id": "AG105",
+        "grade": "E"
+    },
+    {
+        "student_id": "AD8BJ36B",
+        "course_id": "AG107",
+        "grade": "D"
+    },
+    {
+        "student_id": "ADBBF995",
+        "course_id": "AG107",
+        "grade": "F"
+    },
+    {
+        "student_id": "ADY3H9J0",
+        "course_id": "AG107",
+        "grade": "B"
+    },
+    {
+        "student_id": "ADFE83ZM",
+        "course_id": "AG101",
+        "grade": "D"
+    },
+    {
+        "student_id": "ADXX91C5",
+        "course_id": "AG106",
+        "grade": "E"
+    },
+    {
+        "student_id": "AD96EVFD",
+        "course_id": "AG105",
+        "grade": "F"
+    },
+    {
+        "student_id": "AD9516U0",
+        "course_id": "AG106",
+        "grade": "C"
+    },
+    {
+        "student_id": "ADXN8NVZ",
+        "course_id": "AG106",
+        "grade": "F"
+    },
+    {
+        "student_id": "AD7KQLLW",
+        "course_id": "AG105",
+        "grade": "B"
+    },
+    {
+        "student_id": "AD77753I",
+        "course_id": "AG103",
+        "grade": "D"
+    },
+    {
+        "student_id": "ADZEOU7C",
+        "course_id": "AG102",
+        "grade": "F"
+    },
+    {
+        "student_id": "AD3T87V5",
+        "course_id": "AG104",
+        "grade": "C"
+    },
+    {
+        "student_id": "ADUDT4DR",
+        "course_id": "AG107",
+        "grade": "C"
+    },
+    {
+        "student_id": "ADY1JHCH",
+        "course_id": "AG106",
+        "grade": "F"
+    },
+    {
+        "student_id": "AD81UYH6",
+        "course_id": "AG106",
+        "grade": "F"
+    },
+    {
+        "student_id": "ADRQ8QDM",
+        "course_id": "AG104",
+        "grade": "B"
+    },
+    {
+        "student_id": "ADRDADNE",
+        "course_id": "AG107",
+        "grade": "F"
+    },
+    {
+        "student_id": "ADLG1VKF",
+        "course_id": "AG107",
+        "grade": "E"
+    },
+    {
+        "student_id": "ADCAUS0H",
+        "course_id": "AG101",
+        "grade": "E"
+    },
+    {
+        "student_id": "AD1O7AWA",
+        "course_id": "AG103",
+        "grade": "D"
+    },
+    {
+        "student_id": "ADZXKA2R",
+        "course_id": "AG107",
+        "grade": "C"
+    },
+    {
+        "student_id": "ADXOWG6U",
+        "course_id": "AG107",
+        "grade": "D"
+    },
+    {
+        "student_id": "ADZZTP0T",
+        "course_id": "AG104",
+        "grade": "E"
+    },
+    {
+        "student_id": "ADPEMRJA",
+        "course_id": "AG105",
+        "grade": "A"
+    },
+    {
+        "student_id": "ADYGFGOD",
+        "course_id": "AG107",
+        "grade": "D"
+    },
+    {
+        "student_id": "AD75XV31",
+        "course_id": "AG101",
+        "grade": "B"
+    },
+    {
+        "student_id": "AD5UID1A",
+        "course_id": "AG106",
+        "grade": "B"
+    },
+    {
+        "student_id": "AD1238CE",
+        "course_id": "AG104",
+        "grade": "C"
+    },
+    {
+        "student_id": "ADHFFD1S",
+        "course_id": "AG105",
+        "grade": "C"
+    },
+    {
+        "student_id": "ADTVP0WL",
+        "course_id": "AG107",
+        "grade": "B"
+    },
+    {
+        "student_id": "AD9XS9WR",
+        "course_id": "AG103",
+        "grade": "B"
+    },
+    {
+        "student_id": "ADC0V01D",
+        "course_id": "AG104",
+        "grade": "B"
+    },
+    {
+        "student_id": "AD40MB5T",
+        "course_id": "AG103",
+        "grade": "A"
+    },
+    {
+        "student_id": "ADFYR4LM",
+        "course_id": "AG102",
+        "grade": "E"
+    },
+    {
+        "student_id": "AD746LP0",
+        "course_id": "AG103",
+        "grade": "C"
+    },
+    {
+        "student_id": "ADDGWHI9",
+        "course_id": "AG102",
+        "grade": "A"
+    },
+    {
+        "student_id": "ADMLBWRA",
+        "course_id": "AG102",
+        "grade": "E"
+    },
+    {
+        "student_id": "AD4D3LWR",
+        "course_id": "AG102",
+        "grade": "C"
+    },
+    {
+        "student_id": "ADL8FJMC",
+        "course_id": "AG103",
+        "grade": "C"
+    },
+    {
+        "student_id": "AD3MPOKQ",
+        "course_id": "AG103",
+        "grade": "B"
+    },
+    {
+        "student_id": "AD84WR4I",
+        "course_id": "AG104",
+        "grade": "B"
+    },
+    {
+        "student_id": "AD9HCXB6",
+        "course_id": "AG103",
+        "grade": "F"
+    },
+    {
+        "student_id": "ADG4D40Z",
+        "course_id": "AG105",
+        "grade": "A"
+    },
+    {
+        "student_id": "AD3UUYWJ",
+        "course_id": "AG104",
+        "grade": "D"
+    },
+    {
+        "student_id": "AD787Q75",
+        "course_id": "AG101",
+        "grade": "A"
+    },
+    {
+        "student_id": "ADL7ML00",
+        "course_id": "AG101",
+        "grade": "B"
+    },
+    {
+        "student_id": "ADNX5ZVN",
+        "course_id": "AG101",
+        "grade": "C"
+    },
+    {
+        "student_id": "ADQYNOZQ",
+        "course_id": "AG101",
+        "grade": "D"
+    },
+    {
+        "student_id": "AD7YCL1H",
+        "course_id": "AG103",
+        "grade": "D"
+    },
+    {
+        "student_id": "AD0H9DBY",
+        "course_id": "AG101",
+        "grade": "A"
+    }
+]
